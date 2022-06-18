@@ -1,2 +1,2 @@
 # yarnstudio.github.io
-Website of yarn studio
+Welcome to the website of Yarn Studio
